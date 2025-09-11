@@ -1,4 +1,4 @@
-Customer Churn Prediction – SyriaTel Dataset
+# Customer Churn Prediction – SyriaTel Dataset
 
 ## Business Problem  
 Customer churn (when customers leave) is a major challenge for the telecom companies.Retaining customers is considered more cost-effective than acquiring new ones. By analyzing the historical customer data, we aim to identify patterns and predict which customers are more likely to churn. This allows the company to proactively take measures to improve customer retention. 
@@ -95,10 +95,10 @@ The main task for the data set is to build a predictive model to classify whethe
 ---
 
 ## Final Insights & Recommendations  
-1. **Proactive Retention:** Focus on customers with international plans and frequent service calls.  
+1. **Active Retention:** Focus on customers with international plans and frequent service calls.  
 2. **Customer Support Quality:** Investigate service issues that trigger dissatisfaction.  
 3. **Targeted Offers:** Provide loyalty incentives to high-usage customers at risk.  
-4. **Ongoing Monitoring:** Deploy churn prediction in real-time dashboards.  
-5. **Data Expansion:** Include billing history, complaints, and competitor data for stronger insights.  
+4. **On-going Monitoring:** Initiate churn prediction in real-time dashboards.  
+5. **Data Expansion:** Include billing history, complaints, and competitor data for much more stronger insights.  
 
 ---
