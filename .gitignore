@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+# Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
-=======
+
 # Ignore Python bytecode
 __pycache__/
 *.pyc
@@ -10,4 +10,3 @@ node_modules/
 
 # Ignore environment files
 .env
->>>>>>> 776d955179837ba7332fb08a2854e72ef8160b38
