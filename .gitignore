@@ -1,0 +1,12 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore environment files
+.env
